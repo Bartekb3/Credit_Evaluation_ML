@@ -1,4 +1,4 @@
-# Bank Credit Evaluation ML Classification
+# Bank Credit Evaluation
 This project was created as a part of the Machine Learning Basics course 
 in the Data Science program at the Warsaw University of Technology.
 
